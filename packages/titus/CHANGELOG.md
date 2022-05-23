@@ -3,6 +3,86 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.25](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.24...@spinnaker/titus@0.5.25) (2022-05-05)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
+## [0.5.24](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.23...@spinnaker/titus@0.5.24) (2022-04-21)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
+## [0.5.23](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.22...@spinnaker/titus@0.5.23) (2022-04-09)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
+## [0.5.22](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.21...@spinnaker/titus@0.5.22) (2022-03-08)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
+## [0.5.21](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.20...@spinnaker/titus@0.5.21) (2022-01-22)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
+## [0.5.20](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.19...@spinnaker/titus@0.5.20) (2022-01-12)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
+## [0.5.19](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.18...@spinnaker/titus@0.5.19) (2021-12-11)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
+## [0.5.18](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.17...@spinnaker/titus@0.5.18) (2021-12-08)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
+## [0.5.17](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.16...@spinnaker/titus@0.5.17) (2021-12-01)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
+## [0.5.16](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.15...@spinnaker/titus@0.5.16) (2021-11-12)
+
+**Note:** Version bump only for package @spinnaker/titus
+
+
+
+
+
 ## [0.5.15](https://github.com/spinnaker/deck/compare/@spinnaker/titus@0.5.14...@spinnaker/titus@0.5.15) (2021-11-03)
 
 **Note:** Version bump only for package @spinnaker/titus

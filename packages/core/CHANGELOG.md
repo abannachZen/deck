@@ -3,6 +3,112 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.19.4](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.19.3...@spinnaker/core@0.19.4) (2022-05-05)
+
+
+### Bug Fixes
+
+* **core:** apps always display as unconfigured ([#9853](https://github.com/spinnaker/deck/issues/9853)) ([7d45ac7](https://github.com/spinnaker/deck/commit/7d45ac79ee4c68ae1d55584a789acf74616f4d0b)), closes [/github.com/spinnaker/deck/blob/master/packages/core/src/application/config/applicationAttributes.directive.js#L31](https://github.com//github.com/spinnaker/deck/blob/master/packages/core/src/application/config/applicationAttributes.directive.js/issues/L31)
+
+
+
+
+
+## [0.19.3](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.19.2...@spinnaker/core@0.19.3) (2022-04-21)
+
+**Note:** Version bump only for package @spinnaker/core
+
+
+
+
+
+## [0.19.2](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.19.1...@spinnaker/core@0.19.2) (2022-04-09)
+
+**Note:** Version bump only for package @spinnaker/core
+
+
+
+
+
+## [0.19.1](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.19.0...@spinnaker/core@0.19.1) (2022-03-08)
+
+**Note:** Version bump only for package @spinnaker/core
+
+
+
+
+
+# [0.19.0](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.18.0...@spinnaker/core@0.19.0) (2022-01-22)
+
+
+### Features
+
+* **core:** HTML5 Routing ([#9802](https://github.com/spinnaker/deck/issues/9802)) ([d5a077a](https://github.com/spinnaker/deck/commit/d5a077a4b3765ba3e45ec53242bfac187cc96712))
+
+
+
+
+
+# [0.18.0](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.17.0...@spinnaker/core@0.18.0) (2022-01-12)
+
+
+### Bug Fixes
+
+* **core:** ensure that users are not warned of their success ([#9794](https://github.com/spinnaker/deck/issues/9794)) ([333677b](https://github.com/spinnaker/deck/commit/333677b9c9508ae16e91a02e5b0416c7bf217431))
+
+
+### Features
+
+* **core/pipeline:** Load quiet period configuration from Gate, not from SETTINGS ([#9788](https://github.com/spinnaker/deck/issues/9788)) ([75694bd](https://github.com/spinnaker/deck/commit/75694bdd55c9eaf3af8d9b531ee0ac4a471733c5))
+
+
+
+
+
+# [0.17.0](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.16.1...@spinnaker/core@0.17.0) (2021-12-11)
+
+
+### Features
+
+* **pipeline executions/deck:** Add support for max concurrent pipeli… ([#9777](https://github.com/spinnaker/deck/issues/9777)) ([525dc78](https://github.com/spinnaker/deck/commit/525dc788f8fb6508a404023d816df4d01e4de0c2))
+
+
+
+
+
+## [0.16.1](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.16.0...@spinnaker/core@0.16.1) (2021-12-08)
+
+
+### Bug Fixes
+
+* **core:** conditionally hide expression evaluation warning messages ([#9771](https://github.com/spinnaker/deck/issues/9771)) ([7e3dd50](https://github.com/spinnaker/deck/commit/7e3dd5053ccdb06ce067303062f90ae82b56bfc8))
+
+
+
+
+
+# [0.16.0](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.15.1...@spinnaker/core@0.16.0) (2021-12-01)
+
+
+### Features
+
+* **core:** Prepopulate name for app creation ([#9718](https://github.com/spinnaker/deck/issues/9718)) ([7460fe6](https://github.com/spinnaker/deck/commit/7460fe67c3a5caa755f19d0c674efdf0bcd28141))
+
+
+
+
+
+## [0.15.1](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.15.0...@spinnaker/core@0.15.1) (2021-11-12)
+
+
+### Bug Fixes
+
+* **bake:** make helm chart path visible for git/repo artifact ([#9768](https://github.com/spinnaker/deck/issues/9768)) ([9c4e438](https://github.com/spinnaker/deck/commit/9c4e438d4f8fd6c9b72f6648347bb68b93dd8139))
+
+
+
+
+
 # [0.15.0](https://github.com/spinnaker/deck/compare/@spinnaker/core@0.14.2...@spinnaker/core@0.15.0) (2021-11-03)
 
 
