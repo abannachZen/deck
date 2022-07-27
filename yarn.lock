@@ -3864,10 +3864,12 @@
   resolved "https://registry.yarnpkg.com/@types/cors/-/cors-2.8.12.tgz#6b2c510a7ad7039e98e7b8d3d6598f4359e5c080"
   integrity sha512-vt+kDhq/M2ayberEtJcIN/hxXy1Pk+59g2FV/ZQceeaTyCtCucjL2Q7FXlFjtWn4n15KCr1NE2lNNFhp0lEThw==
 
-"@types/dompurify@0.0.29":
-  version "0.0.29"
-  resolved "https://registry.yarnpkg.com/@types/dompurify/-/dompurify-0.0.29.tgz#3a774b80a709848e560fbf9ea62d5f716e79b6f2"
-  integrity sha1-OndLgKcJhI5WD7+epi1fcW55tvI=
+"@types/dompurify@^2.3.3":
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/@types/dompurify/-/dompurify-2.3.3.tgz#c24c92f698f77ed9cc9d9fa7888f90cf2bfaa23f"
+  integrity sha512-nnVQSgRVuZ/843oAfhA25eRSNzUFcBPk/LOiw5gm8mD9/X7CNcbRkQu/OsjCewO8+VIYfPxUnXvPEVGenw14+w==
+  dependencies:
+    "@types/trusted-types" "*"
 
 "@types/enzyme@3.10.3":
   version "3.10.3"
@@ -4170,6 +4172,11 @@
   version "1.4.4"
   resolved "https://registry.yarnpkg.com/@types/tether/-/tether-1.4.4.tgz#0fde1ccbd2f1fad74f8f465fe6227ff3b7bff634"
   integrity sha512-6qhsFJVMuMqaQRVyQVi3zUBLfKYyryktL0ZP0Z3zegzeQ7WKm0PZNCdl3JsaitJbzqaoQ9qsFKMfaj5MiMfcSQ==
+
+"@types/trusted-types@*":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@types/trusted-types/-/trusted-types-2.0.2.tgz#fc25ad9943bcac11cceb8168db4f275e0e72e756"
+  integrity sha512-F5DIZ36YVLE+PN+Zwws4kJogq47hNgX3Nx6WyDJ3kcplxyke3XIzB8uK5n/Lpm1HBsbGzd6nmGehL8cPekP+Tg==
 
 "@types/webpack-env@1.13.7":
   version "1.13.7"
@@ -7669,11 +7676,6 @@ domhandler@^4.1.0, domhandler@^4.3.1:
   integrity sha512-GrwoxYN+uWlzO8uhUXRl0P+kHE4GtVPfYzVLcUxPL7KNdHKj66vvlhiweIHqYYXWlw+T8iLMp42Lm67ghw4WMQ==
   dependencies:
     domelementtype "^2.2.0"
-
-dompurify@2.0.17:
-  version "2.0.17"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.0.17.tgz#505ffa126a580603df4007e034bdc9b6b738668e"
-  integrity sha512-nNwwJfW55r8akD8MSFz6k75bzyT2y6JEa1O3JrZFBf+Y5R9JXXU4OsRl0B9hKoPgHTw2b7ER5yJ5Md97MMUJPg==
 
 dompurify@^2.3.10:
   version "2.3.10"

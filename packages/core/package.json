@@ -96,7 +96,7 @@
     "@types/classnames": "2.2.0",
     "@types/clipboard": "1.5.33",
     "@types/commonmark": "0.27.0",
-    "@types/dompurify": "0.0.29",
+    "@types/dompurify": "^2.3.3",
     "@types/enzyme": "3.10.3",
     "@types/jasmine": "3.6.9",
     "@types/jquery": "2.0.43",
