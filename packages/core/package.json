@@ -14,7 +14,7 @@
     "lib": "npm run build"
   },
   "dependencies": {
-    "@apollo/client": "3.3.14",
+    "@apollo/client": "^3.6.9",
     "@fortawesome/fontawesome-free": "5.5.0",
     "@spinnaker/mocks": "1.0.7",
     "@spinnaker/presentation": "^0.1.0",
