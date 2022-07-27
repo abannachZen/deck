@@ -20,7 +20,7 @@
     "angular-ui-bootstrap": "2.5.0",
     "brace": "0.11.1",
     "dompurify": "2.0.17",
-    "enzyme": "3.10.0",
+    "enzyme": "3.11.0",
     "formik": "1.5.1",
     "js-yaml": "3.13.1",
     "lodash": "4.17.21",
